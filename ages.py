@@ -10,4 +10,4 @@ if(age>=18 and age<=30):
              if(sex="f" or"F"):
                  wages=age*750
                  print("wages=",wages)
-elif(age
+
