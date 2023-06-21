@@ -1,0 +1,11 @@
+a=24
+b=56
+print(type(a))
+print(type(b))
+a=str(b)
+print(type(a))
+d=bool(a)
+print(type(d))
+e="789"
+h=int(b)
+print(type(h))

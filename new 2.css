@@ -1,0 +1,40 @@
+.menu {
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+  font-size: 24px;
+}
+
+h2 {
+  color: #666;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: #333;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+p {
+  color: #777;
+  font-size: 14px;
+  margin: 0;
+}
+
+.price {
+  color: #333;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.category {
+  margin-bottom: 20px;
+}
+
+.item {
+  margin-bottom: 10px;
+}
